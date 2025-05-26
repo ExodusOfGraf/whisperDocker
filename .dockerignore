@@ -1,0 +1,14 @@
+.git
+.gitignore
+.dockerignore
+Dockerfile
+*.pyc
+__pycache__/
+data/
+notebooks/
+tests/
+.pre-commit-config.yaml
+.flake8
+.gitattributes
+language-breakdown.svg
+approach.png 
